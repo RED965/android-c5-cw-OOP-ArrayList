@@ -20,9 +20,9 @@ public class MainActivity extends AppCompatActivity {
         ListView listView = findViewById(R.id.studentListView);
 
         Student s1 = new Student("chika", 15, 90 , R.drawable.chika);
-        Student s2 = new Student("violet", 13, 90 , R.drawable.violet);
-        Student s3 = new Student("hinata", 17, 90 , R.drawable.hinata);
-        Student s4 = new Student("miyamura", 16, 90 , R.drawable.miyamura);
+        Student s2 = new Student("fatima", 13, 90 , R.drawable.violet);
+        Student s3 = new Student("Samira", 17, 90 , R.drawable.hinata);
+        Student s4 = new Student("Mariam", 16, 90 , R.drawable.miyamura);
 
         Students.add(s1);
         Students.add(s2);
